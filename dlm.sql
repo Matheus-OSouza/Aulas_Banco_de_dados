@@ -24,6 +24,7 @@ VALUES
 ('Calleri', '090909090', 'Ataque Cyber', 2),
 ('Pablo', '111111111', 'Ataque Cyber', 2);
 
+
 -- UPDATE
 UPDATE alunos
 	SET matriculaAluno = '888888888' 

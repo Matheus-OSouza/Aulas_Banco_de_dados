@@ -1,6 +1,6 @@
 -- ENTIDADE -> TABELA
 -- DDL -> DATA DEFINITTION LANGUAGE
--- CREATE, ALTER, DROP, truncate
+-- CREATE, ALTER, DROP, TRUNCATE
 USE SistemaEscolar;
 
 CREATE TABLE Instituicao (
@@ -22,6 +22,13 @@ CREATE TABLE Alunos (
 );
 
 CREATE DATABASE SitemaEscolar
+
+-- REMOVER TABELA 
+DROP TABLE alunos; 
+
+-- REMOVER TABELA 
+drop ta
+
 
 
 

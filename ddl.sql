@@ -21,13 +21,11 @@ CREATE TABLE Alunos (
     FOREIGN KEY (instituicaoId) REFERENCES Instituicao (idInstituicao)    
 );
 
-CREATE DATABASE SitemaEscolar
+CREATE DATABASE SitemaEscolar;
 
 -- REMOVER TABELA 
 DROP TABLE alunos; 
 
--- REMOVER TABELA 
-drop ta
 
 
 
